@@ -1,5 +1,3 @@
-
-
 /* shared style */
 body {
     font-family: 'Lato', sans-serif;
@@ -20,6 +18,17 @@ body {
     font-weight: 700;
     padding: 15px 35px;
 
+}
+
+.btn-primary1 {
+    border-radius: 5px;
+    border: 1px solid #FD6E0A;
+    background: #FFF8F3;
+    color: #FD6E0A;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+    margin-left: 10px;
 }
 
 /* nav related styles  */
@@ -67,7 +76,8 @@ nav a {
     align-items: center;
     justify-content: space-between;
 }
-.banner-content{
+
+.banner-content {
     max-width: 500px;
 }
 
@@ -87,6 +97,7 @@ nav a {
     margin-top: 5px;
     margin-bottom: 20px;
 }
-.banner-des{
+
+.banner-des {
     padding-bottom: 20px;
 }
